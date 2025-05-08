@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinchana</h1>
-<h3 align="center">Student | Aspiring Data Scientist</h3>
+<h3 align="center">Student </h3>
 
 - 🌱 I’m currently learning **python libraries,web development**
 
