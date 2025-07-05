@@ -6,7 +6,7 @@
 <h3 align="center">A passionate 4th-year Computer Science Engineering student specializing in Data Science</h3>
 
 - 🔭 I’m currently working on **Data Science and Web Development projects**
-- 🌱 I’m currently learning **Python libraries (Pandas, NumPy, Matplotlib), Full Stack Web Development**
+- 🌱 I’m currently learning **Python libraries 
 - 💡 Exploring fields like **Machine Learning, Cloud, and API integrations**
 - 📫 How to reach me: **naik.sinchana13@gmail.com**
 
