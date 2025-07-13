@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sinchana</h1>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sinchan08&label=Profile%20views&color=0e75b6&style=flat" alt="Sinchan08" />
 </p>
 <h3 align="center">A passionate 4th-year Computer Science Engineering student specializing in Data Science</h3>
