@@ -3,16 +3,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sinchana</h1>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sinchan08&label=Profile%20views&color=0e75b6&style=flat" alt="Sinchan08" />
-</p>
 <h3 align="center">A passionate 4th-year Computer Science Engineering student specializing in Data Science</h3>
 
 - 🔭 I’m currently working on **Data Science and Web Development projects**
 - 🌱 I’m currently learning **Python libraries 
 - 💡 Exploring fields like **Machine Learning, Cloud, and API integrations**
 - 📫 How to reach me: **naik.sinchana13@gmail.com**
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sinchan08&label=Profile%20views&color=0e75b6&style=flat" alt="Sinchan08" />
+</p>
 ---
 
 <h3 align="left">Connect with me:</h3>
