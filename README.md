@@ -2,52 +2,59 @@
   <img src="./code-girl.gif" alt="Coding Girl GIF" width="250"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sinchana</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sinchan08&label=Profile%20views&color=0e75b6&style=flat" alt="Sinchan08" />
-</p>
-<h3 align="center">A passionate 4th-year Computer Science Engineering student specializing in Data Science</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#f06292">Sinchana</span></h1>
 
-- 🔭 I’m currently working on **Data Science and Web Development projects**
-- 🌱 I’m currently learning **Python libraries 
-- 💡 Exploring fields like **Machine Learning, Cloud, and API integrations**
-- 📫 How to reach me: **naik.sinchana13@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sinchan08&label=Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views Badge" />
+</p>
+
+<h3 align="center">🎓 4th-year Computer Science Engineering student | 🌐 Data Science Enthusiast</h3>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me
+
+- 🔭 I’m currently working on **Data Science and Full Stack Web Development Projects**
+- 🌱 I’m currently learning advanced **Python libraries**, **Data Structures**, and **System Design**
+- 💡 Exploring areas like **Machine Learning**, **Cloud Platforms**, and **API Integrations**
+- 📫 Reach me:
+  - ✉️ **naik.sinchana13@gmail.com**
+  - ✉️ **sinchan08.ds@gmail.com**
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sinchana-naik-98863326a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sinchana Naik" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:naik.sinchana13@gmail.com">
+    <img src="https://img.shields.io/badge/Email 1-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1" />
+  </a>
+  <a href="mailto:sinchan08.ds@gmail.com">
+    <img src="https://img.shields.io/badge/Email 2-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
 </p>
+
+---
+
+### 📈 GitHub Stats (Optional - Can Add Later)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinchan08&show_icons=true&theme=radical" alt="Sinchana's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchan08&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</p>
+
