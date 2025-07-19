@@ -19,7 +19,6 @@
 - 💡 Exploring areas like **Machine Learning**, **Cloud Platforms**, and **API Integrations**
 - 📫 Reach me:
   - ✉️ **naik.sinchana13@gmail.com**
-  - ✉️ **sinchan08.ds@gmail.com**
 
 ---
 
@@ -29,10 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:naik.sinchana13@gmail.com">
-    <img src="https://img.shields.io/badge/Email 1-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 1" />
-  </a>
-  <a href="mailto:sinchan08.ds@gmail.com">
-    <img src="https://img.shields.io/badge/Email 2-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2" />
+    <img src="https://img.shields.io/badge/Email 1-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email " />
   </a>
 </p>
 
@@ -46,15 +42,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
 </p>
 
----
-
-### 📈 GitHub Stats (Optional - Can Add Later)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinchan08&show_icons=true&theme=radical" alt="Sinchana's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchan08&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</p>
 
