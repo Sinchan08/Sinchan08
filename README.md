@@ -51,8 +51,9 @@
 
 ### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sinchan08&theme=pink&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sinchan08&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
+
 
 ---
 
