@@ -51,16 +51,15 @@
 
 ### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sinchan08&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sinchan08&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
 </p>
-
 
 ---
 
 ### 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinchan08&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchan08&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinchan08&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchan08&layout=compact&theme=radical&hide_border=true&title_color=ff69b4" alt="Top Languages" height="165"/>
 </p>
 
 ---
