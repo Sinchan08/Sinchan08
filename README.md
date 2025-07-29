@@ -47,4 +47,10 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
 </p>
 
+---
+### 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sinchan08&theme=pink&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 
+---
