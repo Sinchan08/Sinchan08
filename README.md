@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:naik.sinchana13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email " />
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -48,9 +48,18 @@
 </p>
 
 ---
+
 ### 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sinchan08&theme=pink&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinchan08&show_icons=true&theme=radical&hide_border=true&border_radius=10" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchan08&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" height="165"/>
 </p>
 
 ---
